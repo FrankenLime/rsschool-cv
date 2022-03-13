@@ -1,1 +1,1 @@
-# rsschool-cv
+https://frankenlime.github.io/rsschool-cv/cv
