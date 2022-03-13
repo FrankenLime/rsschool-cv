@@ -5,9 +5,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Alina Khan | RSschool</title>
    </head>
-  <body>
+<body>
+<title>Alina Khan | RSschool</title>
 <h1 id="alina.khan">Alina Khan</h1>
 <h2 id="my-contact-info">My Contacts:</h2>
 <ul>
