@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
    </head>
 <body>
-<title>Alina Khan | RSschool</title>
 <h1 id="alina.khan">Alina Khan</h1>
 <h2 id="my-contact-info">My Contacts:</h2>
 <ul>
